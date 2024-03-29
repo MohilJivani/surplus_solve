@@ -1,5 +1,5 @@
 export const BASE_URL = "https://api.edamam.com";
 
-export const APP_ID = // Enter your app id;
+export const APP_ID = "b628fef8";
 
-export const APP_KEY = // Enter your app key;
+export const APP_KEY = "ef3a35ada31a107803ed831ec3a127a9";
